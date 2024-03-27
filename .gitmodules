@@ -1,0 +1,12 @@
+[submodule "fpgaconvnet-optimiser"]
+	path = fpgaconvnet-optimiser
+	url = https://github.com/AlexMontgomerie/fpgaconvnet-optimiser.git
+    branch = dev
+[submodule "fpgaconvnet-model"]
+	path = fpgaconvnet-model
+	url = https://github.com/AlexMontgomerie/fpgaconvnet-model
+    branch = dev
+[submodule "fpgaconvnet-torch"]
+	path = fpgaconvnet-torch
+	url = https://github.com/Yu-Zhewen/fpgaconvnet-torch
+    branch = main
